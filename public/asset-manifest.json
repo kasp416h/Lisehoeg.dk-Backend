@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99385b2a.css",
+    "main.js": "/static/js/main.99494bf3.js",
+    "static/media/keramik-kursus-1.jpeg": "/static/media/keramik-kursus-1.30b44b8cd50a2fedb274.jpeg",
+    "static/media/Lisehoeg.jpg": "/static/media/Lisehoeg.ee108781987813aa437b.jpg",
+    "index.html": "/index.html",
+    "main.99385b2a.css.map": "/static/css/main.99385b2a.css.map",
+    "main.99494bf3.js.map": "/static/js/main.99494bf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99385b2a.css",
+    "static/js/main.99494bf3.js"
+  ]
+}
